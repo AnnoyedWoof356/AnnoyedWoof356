@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hi there 👋
+
+## About me
+### - 🔭 I’m currently working on various little games and projects
+### - 🌱 I’m currently learning Godot and GDScript
+### - 📫 You can find me on discord
+### - 😄 Pronouns: He/They
+### - ⚡ Fun fact: Total nerd about biology and nature!
 
 <!--
 **AnnoyedWoof356/AnnoyedWoof356** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
